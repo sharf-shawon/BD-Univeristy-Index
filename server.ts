@@ -26,10 +26,6 @@ async function startServer() {
   });
 
   // API Routes
-  app.get("/api/health", (req, res) => {
-    res.json({ status: "ok", timestamp: new Date().toISOString(), env: process.env.NODE_ENV });
-  });
-
   app.get("/api/categories", (req, res) => {
     res.json(Object.values(UniversityCategory));
   });
