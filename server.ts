@@ -19,9 +19,7 @@ async function startServer() {
 
   // Logging middleware
   app.use((req, res, next) => {
-    if (process.env.NODE_ENV !== "production") {
-      console.log(`[${new Date().toISOString()}] ${req.method} ${req.url}`);
-    }
+    console.log(`[${new Date().toISOString()}] ${req.method} ${req.url}`);
     next();
   });
 

@@ -186,6 +186,7 @@ async function scrape() {
             fax: details.fax || existing?.fax || null,
             district: details.district || existing?.district || null,
             notes: existing?.notes || null,
+            rankings: existing?.rankings || [],
             sourceUrl: detailUrl || source.url,
             lastChecked: new Date().toISOString(),
             isVerified: true,

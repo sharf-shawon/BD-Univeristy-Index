@@ -84,14 +84,22 @@ export default function UniversityList() {
     result.sort((a, b) => {
       switch (sortBy) {
         case 'rank-asc': {
-          const rankA = a.rankings?.[0] ? parseInt(a.rankings[0].rank.replace(/[^0-9]/g, '')) : Infinity;
-          const rankB = b.rankings?.[0] ? parseInt(b.rankings[0].rank.replace(/[^0-9]/g, '')) : Infinity;
-          return rankA - rankB;
+          const getRank = (u: University) => {
+            const rankStr = u.rankings?.[0]?.rank;
+            if (!rankStr) return Infinity;
+            const match = rankStr.match(/\d+/);
+            return match ? parseInt(match[0]) : Infinity;
+          };
+          return getRank(a) - getRank(b);
         }
         case 'rank-desc': {
-          const rankA = a.rankings?.[0] ? parseInt(a.rankings[0].rank.replace(/[^0-9]/g, '')) : -1;
-          const rankB = b.rankings?.[0] ? parseInt(b.rankings[0].rank.replace(/[^0-9]/g, '')) : -1;
-          return rankB - rankA;
+          const getRank = (u: University) => {
+            const rankStr = u.rankings?.[0]?.rank;
+            if (!rankStr) return -1;
+            const match = rankStr.match(/\d+/);
+            return match ? parseInt(match[0]) : -1;
+          };
+          return getRank(b) - getRank(a);
         }
         case 'name-asc':
           return a.name.localeCompare(b.name);
@@ -107,7 +115,7 @@ export default function UniversityList() {
     });
 
     return result;
-  }, [universities, selectedDistrict, sortBy]);
+  }, [universities, selectedDistrict, sortBy, showRankedOnly]);
 
   const updateFilters = (newParams: Record<string, string>) => {
     const nextParams = new URLSearchParams(searchParams);
@@ -134,6 +142,7 @@ export default function UniversityList() {
                   setSelectedCategory('');
                   setSelectedDistrict('');
                   setSortBy('name-asc');
+                  setShowRankedOnly(false);
                   setSearchParams({});
                 }}
                 className="text-[10px] font-bold text-blue-600 uppercase tracking-widest hover:underline"
@@ -314,6 +323,8 @@ export default function UniversityList() {
                     setSearchQuery('');
                     setSelectedCategory('');
                     setSelectedDistrict('');
+                    setSortBy('name-asc');
+                    setShowRankedOnly(false);
                     setSearchParams({});
                   }}
                   className="mt-10 bg-slate-900 text-white px-8 py-3 rounded-xl font-bold text-xs uppercase tracking-widest hover:bg-blue-600 transition-all shadow-lg"

@@ -9,6 +9,7 @@ RUN npm install
 
 # Copy source and build static assets
 COPY . .
+RUN npm run sync
 RUN npm run build
 
 # Stage 2: Production environment

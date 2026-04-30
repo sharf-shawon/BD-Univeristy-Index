@@ -87,8 +87,16 @@
     "district": "Mymensingh",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/42",
-    "lastChecked": "2026-04-30T20:05:53.891Z",
-    "isVerified": true
+    "lastChecked": "2026-04-30T18:32:38.415Z",
+    "isVerified": true,
+    "rankings": [
+      {
+        "source": "Webometrics",
+        "rank": "2367",
+        "year": "2024",
+        "link": "https://www.webometrics.info/en/Asia/Bangladesh"
+      }
+    ]
   },
   {
     "id": "bangladesh-university-of-engineering-technology",
@@ -409,7 +417,7 @@
     "district": "Tangail",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/53",
-    "lastChecked": "2026-04-30T20:05:54.199Z",
+    "lastChecked": "2026-04-30T18:32:42.458Z",
     "isVerified": true
   },
   {
@@ -478,8 +486,16 @@
     "district": "Chittagong",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/28",
-    "lastChecked": "2026-04-30T20:05:54.518Z",
-    "isVerified": true
+    "lastChecked": "2026-04-30T18:32:43.473Z",
+    "isVerified": true,
+    "rankings": [
+      {
+        "source": "Webometrics",
+        "rank": "3504",
+        "year": "2024",
+        "link": "https://www.webometrics.info/en/Asia/Bangladesh"
+      }
+    ]
   },
   {
     "id": "rajshahi-university-of-engineering-technology-ruet",
@@ -501,8 +517,16 @@
     "district": "Rajshahi",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/47",
-    "lastChecked": "2026-04-30T20:05:54.838Z",
-    "isVerified": true
+    "lastChecked": "2026-04-30T18:32:43.805Z",
+    "isVerified": true,
+    "rankings": [
+      {
+        "source": "Webometrics",
+        "rank": "3602",
+        "year": "2024",
+        "link": "https://www.webometrics.info/en/Asia/Bangladesh"
+      }
+    ]
   },
   {
     "id": "khulna-university-of-engineering-technology-kuet",
@@ -524,8 +548,16 @@
     "district": "Khulna",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/13",
-    "lastChecked": "2026-04-30T20:05:55.164Z",
-    "isVerified": true
+    "lastChecked": "2026-04-30T18:32:44.137Z",
+    "isVerified": true,
+    "rankings": [
+      {
+        "source": "Webometrics",
+        "rank": "3350",
+        "year": "2024",
+        "link": "https://www.webometrics.info/en/Asia/Bangladesh"
+      }
+    ]
   },
   {
     "id": "dhaka-university-of-engineering-technology-duet",
@@ -593,7 +625,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/64",
-    "lastChecked": "2026-04-30T20:05:55.480Z",
+    "lastChecked": "2026-04-30T18:32:45.138Z",
     "isVerified": true
   },
   {
@@ -639,7 +671,7 @@
     "district": "Mymensingh",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/57",
-    "lastChecked": "2026-04-30T20:05:55.798Z",
+    "lastChecked": "2026-04-30T18:32:45.810Z",
     "isVerified": true
   },
   {
@@ -662,7 +694,7 @@
     "district": "Chittagong",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/29",
-    "lastChecked": "2026-04-30T20:05:56.118Z",
+    "lastChecked": "2026-04-30T18:32:46.146Z",
     "isVerified": true
   },
   {
@@ -685,7 +717,7 @@
     "district": "Sylhet",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/45",
-    "lastChecked": "2026-04-30T20:05:56.420Z",
+    "lastChecked": "2026-04-30T18:32:46.477Z",
     "isVerified": true
   },
   {
@@ -708,7 +740,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/56",
-    "lastChecked": "2026-04-30T20:05:56.735Z",
+    "lastChecked": "2026-04-30T18:32:46.822Z",
     "isVerified": true
   },
   {
@@ -731,7 +763,7 @@
     "district": "Pabna",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/50",
-    "lastChecked": "2026-04-30T20:05:57.054Z",
+    "lastChecked": "2026-04-30T18:32:47.154Z",
     "isVerified": true
   },
   {
@@ -754,7 +786,7 @@
     "district": "Rangpur",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/27",
-    "lastChecked": "2026-04-30T20:05:57.371Z",
+    "lastChecked": "2026-04-30T18:32:47.485Z",
     "isVerified": true
   },
   {
@@ -823,7 +855,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/22",
-    "lastChecked": "2026-04-30T20:05:57.684Z",
+    "lastChecked": "2026-04-30T18:32:48.479Z",
     "isVerified": true
   },
   {
@@ -869,7 +901,7 @@
     "district": "Rangamati",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/130",
-    "lastChecked": "2026-04-30T20:05:57.987Z",
+    "lastChecked": "2026-04-30T18:32:49.154Z",
     "isVerified": true
   },
   {
@@ -892,7 +924,7 @@
     "district": "Chittagong",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/43",
-    "lastChecked": "2026-04-30T20:05:58.316Z",
+    "lastChecked": "2026-04-30T18:32:49.490Z",
     "isVerified": true
   },
   {
@@ -938,7 +970,7 @@
     "district": "Chittagong",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/173",
-    "lastChecked": "2026-04-30T20:05:58.628Z",
+    "lastChecked": "2026-04-30T18:32:50.167Z",
     "isVerified": true
   },
   {
@@ -961,7 +993,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/175",
-    "lastChecked": "2026-04-30T20:05:58.943Z",
+    "lastChecked": "2026-04-30T18:32:50.514Z",
     "isVerified": true
   },
   {
@@ -1007,7 +1039,7 @@
     "district": "Gazipur",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/199",
-    "lastChecked": "2026-04-30T20:05:59.259Z",
+    "lastChecked": "2026-04-30T18:32:51.200Z",
     "isVerified": true
   },
   {
@@ -1030,7 +1062,7 @@
     "district": "Netrokona",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/204",
-    "lastChecked": "2026-04-30T20:05:59.573Z",
+    "lastChecked": "2026-04-30T18:32:51.539Z",
     "isVerified": true
   },
   {
@@ -1053,7 +1085,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/201",
-    "lastChecked": "2026-04-30T20:05:59.894Z",
+    "lastChecked": "2026-04-30T18:32:51.888Z",
     "isVerified": true
   },
   {
@@ -1099,7 +1131,7 @@
     "district": "Sylhet",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/210",
-    "lastChecked": "2026-04-30T20:06:00.208Z",
+    "lastChecked": "2026-04-30T18:32:52.559Z",
     "isVerified": true
   },
   {
@@ -1145,7 +1177,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/217",
-    "lastChecked": "2026-04-30T20:06:00.520Z",
+    "lastChecked": "2026-04-30T18:32:53.230Z",
     "isVerified": true
   },
   {
@@ -1168,7 +1200,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/218",
-    "lastChecked": "2026-04-30T20:06:00.830Z",
+    "lastChecked": "2026-04-30T18:32:53.564Z",
     "isVerified": true
   },
   {
@@ -1191,7 +1223,7 @@
     "district": "Habiganj",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/219",
-    "lastChecked": "2026-04-30T20:06:01.133Z",
+    "lastChecked": "2026-04-30T18:32:53.899Z",
     "isVerified": true
   },
   {
@@ -1214,7 +1246,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/220",
-    "lastChecked": "2026-04-30T20:06:01.446Z",
+    "lastChecked": "2026-04-30T18:32:54.236Z",
     "isVerified": true
   },
   {
@@ -1237,7 +1269,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/222",
-    "lastChecked": "2026-04-30T20:06:01.766Z",
+    "lastChecked": "2026-04-30T18:32:54.570Z",
     "isVerified": true
   },
   {
@@ -1260,7 +1292,7 @@
     "district": "Sunamganj",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/223",
-    "lastChecked": "2026-04-30T20:06:02.076Z",
+    "lastChecked": "2026-04-30T18:32:54.913Z",
     "isVerified": true
   },
   {
@@ -1283,7 +1315,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/225",
-    "lastChecked": "2026-04-30T20:06:02.386Z",
+    "lastChecked": "2026-04-30T18:32:55.259Z",
     "isVerified": true
   },
   {
@@ -1306,7 +1338,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/229",
-    "lastChecked": "2026-04-30T20:06:02.697Z",
+    "lastChecked": "2026-04-30T18:32:55.599Z",
     "isVerified": true
   },
   {
@@ -1329,7 +1361,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/230",
-    "lastChecked": "2026-04-30T20:06:03.010Z",
+    "lastChecked": "2026-04-30T18:32:55.931Z",
     "isVerified": true
   },
   {
@@ -1352,7 +1384,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/244",
-    "lastChecked": "2026-04-30T20:06:03.321Z",
+    "lastChecked": "2026-04-30T18:32:56.265Z",
     "isVerified": true
   },
   {
@@ -1375,7 +1407,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/245",
-    "lastChecked": "2026-04-30T20:06:03.639Z",
+    "lastChecked": "2026-04-30T18:32:56.601Z",
     "isVerified": true
   },
   {
@@ -1429,7 +1461,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/123",
-    "lastChecked": "2026-04-30T20:06:04.544Z",
+    "lastChecked": "2026-04-30T18:32:57.914Z",
     "isVerified": true
   },
   {
@@ -1475,7 +1507,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/67",
-    "lastChecked": "2026-04-30T20:06:04.861Z",
+    "lastChecked": "2026-04-30T18:32:58.583Z",
     "isVerified": true
   },
   {
@@ -1544,7 +1576,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/6",
-    "lastChecked": "2026-04-30T20:06:05.159Z",
+    "lastChecked": "2026-04-30T18:32:59.588Z",
     "isVerified": true
   },
   {
@@ -1636,7 +1668,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/83",
-    "lastChecked": "2026-04-30T20:06:05.472Z",
+    "lastChecked": "2026-04-30T18:33:00.939Z",
     "isVerified": true
   },
   {
@@ -1659,7 +1691,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/117",
-    "lastChecked": "2026-04-30T20:06:05.788Z",
+    "lastChecked": "2026-04-30T18:33:01.273Z",
     "isVerified": true
   },
   {
@@ -1682,7 +1714,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/20",
-    "lastChecked": "2026-04-30T20:06:06.098Z",
+    "lastChecked": "2026-04-30T18:33:01.600Z",
     "isVerified": true
   },
   {
@@ -1705,7 +1737,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/234",
-    "lastChecked": "2026-04-30T20:06:06.410Z",
+    "lastChecked": "2026-04-30T18:33:01.943Z",
     "isVerified": true
   },
   {
@@ -1728,7 +1760,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/105",
-    "lastChecked": "2026-04-30T20:06:06.732Z",
+    "lastChecked": "2026-04-30T18:33:02.281Z",
     "isVerified": true
   },
   {
@@ -1805,7 +1837,7 @@
     "district": "Sylhet",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/104",
-    "lastChecked": "2026-04-30T20:06:07.054Z",
+    "lastChecked": "2026-04-30T18:33:03.292Z",
     "isVerified": true
   },
   {
@@ -1828,7 +1860,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/54",
-    "lastChecked": "2026-04-30T20:06:07.374Z",
+    "lastChecked": "2026-04-30T18:33:03.624Z",
     "isVerified": true
   },
   {
@@ -1851,7 +1883,7 @@
     "district": "Sylhet",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/115",
-    "lastChecked": "2026-04-30T20:06:07.691Z",
+    "lastChecked": "2026-04-30T18:33:03.953Z",
     "isVerified": true
   },
   {
@@ -2035,7 +2067,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/86",
-    "lastChecked": "2026-04-30T20:06:08.006Z",
+    "lastChecked": "2026-04-30T18:33:06.642Z",
     "isVerified": true
   },
   {
@@ -2081,7 +2113,7 @@
     "district": "Chittagong",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/99",
-    "lastChecked": "2026-04-30T20:06:08.325Z",
+    "lastChecked": "2026-04-30T18:33:07.309Z",
     "isVerified": true
   },
   {
@@ -2127,7 +2159,7 @@
     "district": "Rangpur",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/163",
-    "lastChecked": "2026-04-30T20:06:08.640Z",
+    "lastChecked": "2026-04-30T18:33:07.987Z",
     "isVerified": true
   },
   {
@@ -2196,7 +2228,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/116",
-    "lastChecked": "2026-04-30T20:06:08.961Z",
+    "lastChecked": "2026-04-30T18:33:08.994Z",
     "isVerified": true
   },
   {
@@ -2219,7 +2251,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/76",
-    "lastChecked": "2026-04-30T20:06:09.275Z",
+    "lastChecked": "2026-04-30T18:33:09.333Z",
     "isVerified": true
   },
   {
@@ -2288,8 +2320,16 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/119",
-    "lastChecked": "2026-04-30T20:06:09.599Z",
-    "isVerified": true
+    "lastChecked": "2026-04-30T18:33:10.357Z",
+    "isVerified": true,
+    "rankings": [
+      {
+        "source": "Webometrics",
+        "rank": "3121",
+        "year": "2024",
+        "link": "https://www.webometrics.info/en/Asia/Bangladesh"
+      }
+    ]
   },
   {
     "id": "university-of-south-asia",
@@ -2311,7 +2351,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/124",
-    "lastChecked": "2026-04-30T20:06:09.913Z",
+    "lastChecked": "2026-04-30T18:33:10.694Z",
     "isVerified": true
   },
   {
@@ -2334,7 +2374,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/127",
-    "lastChecked": "2026-04-30T20:06:10.227Z",
+    "lastChecked": "2026-04-30T18:33:11.029Z",
     "isVerified": true
   },
   {
@@ -2357,7 +2397,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/41",
-    "lastChecked": "2026-04-30T20:06:10.544Z",
+    "lastChecked": "2026-04-30T18:33:11.378Z",
     "isVerified": true
   },
   {
@@ -2380,7 +2420,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/84",
-    "lastChecked": "2026-04-30T20:06:10.861Z",
+    "lastChecked": "2026-04-30T18:33:12.013Z",
     "isVerified": true
   },
   {
@@ -2403,7 +2443,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/121",
-    "lastChecked": "2026-04-30T20:06:11.181Z",
+    "lastChecked": "2026-04-30T18:33:12.351Z",
     "isVerified": true
   },
   {
@@ -2426,7 +2466,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/87",
-    "lastChecked": "2026-04-30T20:06:11.500Z",
+    "lastChecked": "2026-04-30T18:33:12.687Z",
     "isVerified": true
   },
   {
@@ -2449,7 +2489,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/92",
-    "lastChecked": "2026-04-30T20:06:11.818Z",
+    "lastChecked": "2026-04-30T18:33:13.026Z",
     "isVerified": true
   },
   {
@@ -2495,7 +2535,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/21",
-    "lastChecked": "2026-04-30T20:06:12.134Z",
+    "lastChecked": "2026-04-30T18:33:13.691Z",
     "isVerified": true
   },
   {
@@ -2518,7 +2558,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/39",
-    "lastChecked": "2026-04-30T20:06:12.456Z",
+    "lastChecked": "2026-04-30T18:33:14.033Z",
     "isVerified": true
   },
   {
@@ -2541,7 +2581,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/11",
-    "lastChecked": "2026-04-30T20:06:12.781Z",
+    "lastChecked": "2026-04-30T18:33:14.373Z",
     "isVerified": true
   },
   {
@@ -2564,7 +2604,7 @@
     "district": "Chittagong",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/74",
-    "lastChecked": "2026-04-30T20:06:13.099Z",
+    "lastChecked": "2026-04-30T18:33:14.716Z",
     "isVerified": true
   },
   {
@@ -2587,7 +2627,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/77",
-    "lastChecked": "2026-04-30T20:06:13.416Z",
+    "lastChecked": "2026-04-30T18:33:15.055Z",
     "isVerified": true
   },
   {
@@ -2679,7 +2719,7 @@
     "district": "Sylhet",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/108",
-    "lastChecked": "2026-04-30T20:06:13.731Z",
+    "lastChecked": "2026-04-30T18:33:16.391Z",
     "isVerified": true
   },
   {
@@ -2702,7 +2742,7 @@
     "district": "Chuadanga",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/81",
-    "lastChecked": "2026-04-30T20:06:14.045Z",
+    "lastChecked": "2026-04-30T18:33:16.725Z",
     "isVerified": true
   },
   {
@@ -2725,7 +2765,7 @@
     "district": "Kishoreganj",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/102",
-    "lastChecked": "2026-04-30T20:06:14.360Z",
+    "lastChecked": "2026-04-30T18:33:17.059Z",
     "isVerified": true
   },
   {
@@ -2748,7 +2788,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/132",
-    "lastChecked": "2026-04-30T20:06:14.673Z",
+    "lastChecked": "2026-04-30T18:33:17.400Z",
     "isVerified": true
   },
   {
@@ -2771,7 +2811,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/78",
-    "lastChecked": "2026-04-30T20:06:14.992Z",
+    "lastChecked": "2026-04-30T18:33:17.728Z",
     "isVerified": true
   },
   {
@@ -2794,7 +2834,7 @@
     "district": "Khulna",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/109",
-    "lastChecked": "2026-04-30T20:06:15.310Z",
+    "lastChecked": "2026-04-30T18:33:18.064Z",
     "isVerified": true
   },
   {
@@ -2817,7 +2857,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/103",
-    "lastChecked": "2026-04-30T20:06:15.624Z",
+    "lastChecked": "2026-04-30T18:33:18.397Z",
     "isVerified": true
   },
   {
@@ -2840,7 +2880,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/97",
-    "lastChecked": "2026-04-30T20:06:15.941Z",
+    "lastChecked": "2026-04-30T18:33:18.729Z",
     "isVerified": true
   },
   {
@@ -2863,7 +2903,7 @@
     "district": "Feni",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/80",
-    "lastChecked": "2026-04-30T20:06:16.256Z",
+    "lastChecked": "2026-04-30T18:33:19.069Z",
     "isVerified": true
   },
   {
@@ -2886,7 +2926,7 @@
     "district": "Comilla",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/65",
-    "lastChecked": "2026-04-30T20:06:16.574Z",
+    "lastChecked": "2026-04-30T18:33:19.411Z",
     "isVerified": true
   },
   {
@@ -2909,7 +2949,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/112",
-    "lastChecked": "2026-04-30T20:06:16.886Z",
+    "lastChecked": "2026-04-30T18:33:19.748Z",
     "isVerified": true
   },
   {
@@ -2932,7 +2972,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/48",
-    "lastChecked": "2026-04-30T20:06:17.204Z",
+    "lastChecked": "2026-04-30T18:33:20.088Z",
     "isVerified": true
   },
   {
@@ -2955,7 +2995,7 @@
     "district": "Chittagong",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/68",
-    "lastChecked": "2026-04-30T20:06:17.518Z",
+    "lastChecked": "2026-04-30T18:33:20.421Z",
     "isVerified": true
   },
   {
@@ -3001,7 +3041,7 @@
     "district": "Faridpur",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/136",
-    "lastChecked": "2026-04-30T20:06:17.831Z",
+    "lastChecked": "2026-04-30T18:33:21.092Z",
     "isVerified": true
   },
   {
@@ -3024,7 +3064,7 @@
     "district": "Rajshahi",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/107",
-    "lastChecked": "2026-04-30T20:06:18.158Z",
+    "lastChecked": "2026-04-30T18:33:21.426Z",
     "isVerified": true
   },
   {
@@ -3047,7 +3087,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/79",
-    "lastChecked": "2026-04-30T20:06:18.472Z",
+    "lastChecked": "2026-04-30T18:33:21.761Z",
     "isVerified": true
   },
   {
@@ -3070,7 +3110,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/89",
-    "lastChecked": "2026-04-30T20:06:18.790Z",
+    "lastChecked": "2026-04-30T18:33:22.096Z",
     "isVerified": true
   },
   {
@@ -3093,7 +3133,7 @@
     "district": "Jamalpur",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/96",
-    "lastChecked": "2026-04-30T20:06:19.105Z",
+    "lastChecked": "2026-04-30T18:33:22.433Z",
     "isVerified": true
   },
   {
@@ -3116,7 +3156,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/70",
-    "lastChecked": "2026-04-30T20:06:19.429Z",
+    "lastChecked": "2026-04-30T18:33:22.766Z",
     "isVerified": true
   },
   {
@@ -3139,7 +3179,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/91",
-    "lastChecked": "2026-04-30T20:06:19.744Z",
+    "lastChecked": "2026-04-30T18:33:23.098Z",
     "isVerified": true
   },
   {
@@ -3162,7 +3202,7 @@
     "district": "Gazipur",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/82",
-    "lastChecked": "2026-04-30T20:06:20.061Z",
+    "lastChecked": "2026-04-30T18:33:23.438Z",
     "isVerified": true
   },
   {
@@ -3185,7 +3225,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/137",
-    "lastChecked": "2026-04-30T20:06:20.382Z",
+    "lastChecked": "2026-04-30T18:33:23.776Z",
     "isVerified": true
   },
   {
@@ -3208,7 +3248,7 @@
     "district": "Comilla",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/66",
-    "lastChecked": "2026-04-30T20:06:20.697Z",
+    "lastChecked": "2026-04-30T18:33:24.116Z",
     "isVerified": true
   },
   {
@@ -3231,7 +3271,7 @@
     "district": "Nilphamari",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/134",
-    "lastChecked": "2026-04-30T20:06:21.012Z",
+    "lastChecked": "2026-04-30T18:33:24.450Z",
     "isVerified": true
   },
   {
@@ -3254,7 +3294,7 @@
     "district": "Natore",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/133",
-    "lastChecked": "2026-04-30T20:06:21.325Z",
+    "lastChecked": "2026-04-30T18:33:24.788Z",
     "isVerified": true
   },
   {
@@ -3277,7 +3317,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/135",
-    "lastChecked": "2026-04-30T20:06:21.637Z",
+    "lastChecked": "2026-04-30T18:33:25.120Z",
     "isVerified": true
   },
   {
@@ -3300,7 +3340,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/164",
-    "lastChecked": "2026-04-30T20:06:21.951Z",
+    "lastChecked": "2026-04-30T18:33:25.457Z",
     "isVerified": true
   },
   {
@@ -3346,7 +3386,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/166",
-    "lastChecked": "2026-04-30T20:06:22.252Z",
+    "lastChecked": "2026-04-30T18:33:26.126Z",
     "isVerified": true
   },
   {
@@ -3369,7 +3409,7 @@
     "district": "Khulna",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/167",
-    "lastChecked": "2026-04-30T20:06:22.564Z",
+    "lastChecked": "2026-04-30T18:33:26.460Z",
     "isVerified": true
   },
   {
@@ -3415,7 +3455,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/169",
-    "lastChecked": "2026-04-30T20:06:22.880Z",
+    "lastChecked": "2026-04-30T18:33:27.132Z",
     "isVerified": true
   },
   {
@@ -3438,7 +3478,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/170",
-    "lastChecked": "2026-04-30T20:06:23.193Z",
+    "lastChecked": "2026-04-30T18:33:27.466Z",
     "isVerified": true
   },
   {
@@ -3461,7 +3501,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/176",
-    "lastChecked": "2026-04-30T20:06:23.509Z",
+    "lastChecked": "2026-04-30T18:33:27.804Z",
     "isVerified": true
   },
   {
@@ -3484,7 +3524,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/172",
-    "lastChecked": "2026-04-30T20:06:23.824Z",
+    "lastChecked": "2026-04-30T18:33:28.131Z",
     "isVerified": true
   },
   {
@@ -3507,7 +3547,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/177",
-    "lastChecked": "2026-04-30T20:06:24.142Z",
+    "lastChecked": "2026-04-30T18:33:28.468Z",
     "isVerified": true
   },
   {
@@ -3530,7 +3570,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/171",
-    "lastChecked": "2026-04-30T20:06:24.456Z",
+    "lastChecked": "2026-04-30T18:33:28.806Z",
     "isVerified": true
   },
   {
@@ -3553,7 +3593,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/180",
-    "lastChecked": "2026-04-30T20:06:24.772Z",
+    "lastChecked": "2026-04-30T18:33:29.143Z",
     "isVerified": true
   },
   {
@@ -3576,7 +3616,7 @@
     "district": "Rajshahi",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/187",
-    "lastChecked": "2026-04-30T20:06:25.092Z",
+    "lastChecked": "2026-04-30T18:33:29.479Z",
     "isVerified": true
   },
   {
@@ -3599,7 +3639,7 @@
     "district": "Khulna",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/184",
-    "lastChecked": "2026-04-30T20:06:25.407Z",
+    "lastChecked": "2026-04-30T18:33:29.816Z",
     "isVerified": true
   },
   {
@@ -3622,7 +3662,7 @@
     "district": "Bandarban",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/181",
-    "lastChecked": "2026-04-30T20:06:26.260Z",
+    "lastChecked": "2026-04-30T18:33:30.155Z",
     "isVerified": true
   },
   {
@@ -3645,7 +3685,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/190",
-    "lastChecked": "2026-04-30T20:06:26.579Z",
+    "lastChecked": "2026-04-30T18:33:30.489Z",
     "isVerified": true
   },
   {
@@ -3668,7 +3708,7 @@
     "district": "Barishal",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/193",
-    "lastChecked": "2026-04-30T20:06:26.897Z",
+    "lastChecked": "2026-04-30T18:33:30.827Z",
     "isVerified": true
   },
   {
@@ -3691,7 +3731,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/196",
-    "lastChecked": "2026-04-30T20:06:27.223Z",
+    "lastChecked": "2026-04-30T18:33:31.163Z",
     "isVerified": true
   },
   {
@@ -3714,7 +3754,7 @@
     "district": "Brahmanbaria",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/211",
-    "lastChecked": "2026-04-30T20:06:27.545Z",
+    "lastChecked": "2026-04-30T18:33:31.498Z",
     "isVerified": true
   },
   {
@@ -3737,7 +3777,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/212",
-    "lastChecked": "2026-04-30T20:06:27.866Z",
+    "lastChecked": "2026-04-30T18:33:31.843Z",
     "isVerified": true
   },
   {
@@ -3760,7 +3800,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/215",
-    "lastChecked": "2026-04-30T20:06:28.199Z",
+    "lastChecked": "2026-04-30T18:33:32.188Z",
     "isVerified": true
   },
   {
@@ -3829,7 +3869,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/224",
-    "lastChecked": "2026-04-30T20:06:28.521Z",
+    "lastChecked": "2026-04-30T18:33:33.184Z",
     "isVerified": true
   },
   {
@@ -3875,7 +3915,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/226",
-    "lastChecked": "2026-04-30T20:06:28.843Z",
+    "lastChecked": "2026-04-30T18:33:33.836Z",
     "isVerified": true
   },
   {
@@ -3944,7 +3984,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/233",
-    "lastChecked": "2026-04-30T20:06:29.162Z",
+    "lastChecked": "2026-04-30T18:33:34.837Z",
     "isVerified": true
   },
   {
@@ -3967,7 +4007,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/241",
-    "lastChecked": "2026-04-30T20:06:29.484Z",
+    "lastChecked": "2026-04-30T18:33:35.173Z",
     "isVerified": true
   },
   {
@@ -3990,7 +4030,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/93",
-    "lastChecked": "2026-04-30T20:06:29.806Z",
+    "lastChecked": "2026-04-30T18:33:35.509Z",
     "isVerified": true
   },
   {
@@ -4013,7 +4053,7 @@
     "district": "Dhaka",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/179",
-    "lastChecked": "2026-04-30T20:06:30.126Z",
+    "lastChecked": "2026-04-30T18:33:35.844Z",
     "isVerified": true
   },
   {
@@ -4036,7 +4076,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/88",
-    "lastChecked": "2026-04-30T20:06:30.450Z",
+    "lastChecked": "2026-04-30T18:33:36.189Z",
     "isVerified": true
   },
   {
@@ -4059,7 +4099,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/232",
-    "lastChecked": "2026-04-30T20:06:30.772Z",
+    "lastChecked": "2026-04-30T18:33:36.524Z",
     "isVerified": true
   },
   {
@@ -4105,7 +4145,7 @@
     "district": "Chittagong",
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/38",
-    "lastChecked": "2026-04-30T20:06:31.416Z",
+    "lastChecked": "2026-04-30T18:33:37.520Z",
     "isVerified": true
   },
   {
@@ -4128,7 +4168,7 @@
     "district": null,
     "notes": null,
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/26",
-    "lastChecked": "2026-04-30T20:06:31.741Z",
+    "lastChecked": "2026-04-30T18:33:37.854Z",
     "isVerified": true
   }
 ]

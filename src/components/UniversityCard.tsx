@@ -28,8 +28,8 @@ export default function UniversityCard({ university }: UniversityCardProps) {
         <div className="flex-1 min-w-0">
           <div className="flex flex-wrap gap-2 mb-1">
             {topRanking && (
-              <span className="inline-flex items-center gap-1 bg-amber-50 text-amber-700 text-[8px] font-black uppercase tracking-widest px-1.5 py-0.5 rounded border border-amber-100">
-                <Trophy className="h-2 w-2" /> Global #{topRanking.rank}
+              <span className="inline-flex items-center gap-1.5 bg-amber-50 text-amber-700 text-[10px] font-extrabold uppercase tracking-widest px-2 py-1 rounded-lg border border-amber-200/50 shadow-sm shadow-amber-900/5">
+                <Trophy className="h-3 w-3" /> Global #{topRanking.rank}
               </span>
             )}
           </div>
