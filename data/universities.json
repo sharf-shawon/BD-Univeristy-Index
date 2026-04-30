@@ -86,9 +86,6 @@
     "fax": "+880-91-66896",
     "district": "Mymensingh",
     "notes": null,
-    "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/42",
-    "lastChecked": "2026-04-30T18:32:38.415Z",
-    "isVerified": true,
     "rankings": [
       {
         "source": "Webometrics",
@@ -96,7 +93,10 @@
         "year": "2024",
         "link": "https://www.webometrics.info/en/Asia/Bangladesh"
       }
-    ]
+    ],
+    "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/42",
+    "lastChecked": "2026-04-30T20:24:47.130Z",
+    "isVerified": true
   },
   {
     "id": "bangladesh-university-of-engineering-technology",
@@ -416,8 +416,9 @@
     "fax": "+88092155400",
     "district": "Tangail",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/53",
-    "lastChecked": "2026-04-30T18:32:42.458Z",
+    "lastChecked": "2026-04-30T20:24:47.477Z",
     "isVerified": true
   },
   {
@@ -485,9 +486,6 @@
     "fax": null,
     "district": "Chittagong",
     "notes": null,
-    "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/28",
-    "lastChecked": "2026-04-30T18:32:43.473Z",
-    "isVerified": true,
     "rankings": [
       {
         "source": "Webometrics",
@@ -495,7 +493,10 @@
         "year": "2024",
         "link": "https://www.webometrics.info/en/Asia/Bangladesh"
       }
-    ]
+    ],
+    "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/28",
+    "lastChecked": "2026-04-30T20:24:47.823Z",
+    "isVerified": true
   },
   {
     "id": "rajshahi-university-of-engineering-technology-ruet",
@@ -516,9 +517,6 @@
     "fax": "+880 2588867105",
     "district": "Rajshahi",
     "notes": null,
-    "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/47",
-    "lastChecked": "2026-04-30T18:32:43.805Z",
-    "isVerified": true,
     "rankings": [
       {
         "source": "Webometrics",
@@ -526,7 +524,10 @@
         "year": "2024",
         "link": "https://www.webometrics.info/en/Asia/Bangladesh"
       }
-    ]
+    ],
+    "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/47",
+    "lastChecked": "2026-04-30T20:24:48.180Z",
+    "isVerified": true
   },
   {
     "id": "khulna-university-of-engineering-technology-kuet",
@@ -547,9 +548,6 @@
     "fax": "+8802477733303",
     "district": "Khulna",
     "notes": null,
-    "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/13",
-    "lastChecked": "2026-04-30T18:32:44.137Z",
-    "isVerified": true,
     "rankings": [
       {
         "source": "Webometrics",
@@ -557,7 +555,10 @@
         "year": "2024",
         "link": "https://www.webometrics.info/en/Asia/Bangladesh"
       }
-    ]
+    ],
+    "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/13",
+    "lastChecked": "2026-04-30T20:24:48.520Z",
+    "isVerified": true
   },
   {
     "id": "dhaka-university-of-engineering-technology-duet",
@@ -624,8 +625,9 @@
     "fax": "+88-02-9534255",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/64",
-    "lastChecked": "2026-04-30T18:32:45.138Z",
+    "lastChecked": "2026-04-30T20:24:48.873Z",
     "isVerified": true
   },
   {
@@ -670,8 +672,9 @@
     "fax": "09032-56270",
     "district": "Mymensingh",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/57",
-    "lastChecked": "2026-04-30T18:32:45.810Z",
+    "lastChecked": "2026-04-30T20:24:49.209Z",
     "isVerified": true
   },
   {
@@ -693,8 +696,9 @@
     "fax": "+8802334466270",
     "district": "Chittagong",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/29",
-    "lastChecked": "2026-04-30T18:32:46.146Z",
+    "lastChecked": "2026-04-30T20:24:49.555Z",
     "isVerified": true
   },
   {
@@ -716,8 +720,9 @@
     "fax": "+88 02996642081",
     "district": "Sylhet",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/45",
-    "lastChecked": "2026-04-30T18:32:46.477Z",
+    "lastChecked": "2026-04-30T20:24:49.895Z",
     "isVerified": true
   },
   {
@@ -739,8 +744,9 @@
     "fax": "02 42142012",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/56",
-    "lastChecked": "2026-04-30T18:32:46.822Z",
+    "lastChecked": "2026-04-30T20:24:50.235Z",
     "isVerified": true
   },
   {
@@ -762,8 +768,9 @@
     "fax": null,
     "district": "Pabna",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/50",
-    "lastChecked": "2026-04-30T18:32:47.154Z",
+    "lastChecked": "2026-04-30T20:24:50.576Z",
     "isVerified": true
   },
   {
@@ -785,8 +792,9 @@
     "fax": null,
     "district": "Rangpur",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/27",
-    "lastChecked": "2026-04-30T18:32:47.485Z",
+    "lastChecked": "2026-04-30T20:24:50.915Z",
     "isVerified": true
   },
   {
@@ -854,8 +862,9 @@
     "fax": "+88 02 48112698",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/22",
-    "lastChecked": "2026-04-30T18:32:48.479Z",
+    "lastChecked": "2026-04-30T20:24:51.250Z",
     "isVerified": true
   },
   {
@@ -900,8 +909,9 @@
     "fax": null,
     "district": "Rangamati",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/130",
-    "lastChecked": "2026-04-30T18:32:49.154Z",
+    "lastChecked": "2026-04-30T20:24:51.594Z",
     "isVerified": true
   },
   {
@@ -923,8 +933,9 @@
     "fax": "+02 58051010",
     "district": "Chittagong",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/43",
-    "lastChecked": "2026-04-30T18:32:49.490Z",
+    "lastChecked": "2026-04-30T20:24:51.935Z",
     "isVerified": true
   },
   {
@@ -969,8 +980,9 @@
     "fax": null,
     "district": "Chittagong",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/173",
-    "lastChecked": "2026-04-30T18:32:50.167Z",
+    "lastChecked": "2026-04-30T20:24:52.275Z",
     "isVerified": true
   },
   {
@@ -992,8 +1004,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/175",
-    "lastChecked": "2026-04-30T18:32:50.514Z",
+    "lastChecked": "2026-04-30T20:24:52.616Z",
     "isVerified": true
   },
   {
@@ -1038,8 +1051,9 @@
     "fax": null,
     "district": "Gazipur",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/199",
-    "lastChecked": "2026-04-30T18:32:51.200Z",
+    "lastChecked": "2026-04-30T20:24:52.960Z",
     "isVerified": true
   },
   {
@@ -1061,8 +1075,9 @@
     "fax": null,
     "district": "Netrokona",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/204",
-    "lastChecked": "2026-04-30T18:32:51.539Z",
+    "lastChecked": "2026-04-30T20:24:53.301Z",
     "isVerified": true
   },
   {
@@ -1084,8 +1099,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/201",
-    "lastChecked": "2026-04-30T18:32:51.888Z",
+    "lastChecked": "2026-04-30T20:24:53.651Z",
     "isVerified": true
   },
   {
@@ -1130,8 +1146,9 @@
     "fax": null,
     "district": "Sylhet",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/210",
-    "lastChecked": "2026-04-30T18:32:52.559Z",
+    "lastChecked": "2026-04-30T20:24:53.994Z",
     "isVerified": true
   },
   {
@@ -1176,8 +1193,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/217",
-    "lastChecked": "2026-04-30T18:32:53.230Z",
+    "lastChecked": "2026-04-30T20:24:54.337Z",
     "isVerified": true
   },
   {
@@ -1199,8 +1217,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/218",
-    "lastChecked": "2026-04-30T18:32:53.564Z",
+    "lastChecked": "2026-04-30T20:24:54.677Z",
     "isVerified": true
   },
   {
@@ -1222,8 +1241,9 @@
     "fax": null,
     "district": "Habiganj",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/219",
-    "lastChecked": "2026-04-30T18:32:53.899Z",
+    "lastChecked": "2026-04-30T20:24:55.016Z",
     "isVerified": true
   },
   {
@@ -1245,8 +1265,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/220",
-    "lastChecked": "2026-04-30T18:32:54.236Z",
+    "lastChecked": "2026-04-30T20:24:55.355Z",
     "isVerified": true
   },
   {
@@ -1268,8 +1289,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/222",
-    "lastChecked": "2026-04-30T18:32:54.570Z",
+    "lastChecked": "2026-04-30T20:24:55.696Z",
     "isVerified": true
   },
   {
@@ -1291,8 +1313,9 @@
     "fax": null,
     "district": "Sunamganj",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/223",
-    "lastChecked": "2026-04-30T18:32:54.913Z",
+    "lastChecked": "2026-04-30T20:24:56.052Z",
     "isVerified": true
   },
   {
@@ -1314,8 +1337,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/225",
-    "lastChecked": "2026-04-30T18:32:55.259Z",
+    "lastChecked": "2026-04-30T20:24:56.387Z",
     "isVerified": true
   },
   {
@@ -1337,8 +1361,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/229",
-    "lastChecked": "2026-04-30T18:32:55.599Z",
+    "lastChecked": "2026-04-30T20:24:56.732Z",
     "isVerified": true
   },
   {
@@ -1360,8 +1385,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/230",
-    "lastChecked": "2026-04-30T18:32:55.931Z",
+    "lastChecked": "2026-04-30T20:24:57.068Z",
     "isVerified": true
   },
   {
@@ -1383,8 +1409,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/244",
-    "lastChecked": "2026-04-30T18:32:56.265Z",
+    "lastChecked": "2026-04-30T20:24:57.409Z",
     "isVerified": true
   },
   {
@@ -1406,8 +1433,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/245",
-    "lastChecked": "2026-04-30T18:32:56.601Z",
+    "lastChecked": "2026-04-30T20:24:57.750Z",
     "isVerified": true
   },
   {
@@ -1460,8 +1488,9 @@
     "fax": "031-659545",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/123",
-    "lastChecked": "2026-04-30T18:32:57.914Z",
+    "lastChecked": "2026-04-30T20:24:58.762Z",
     "isVerified": true
   },
   {
@@ -1506,8 +1535,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/67",
-    "lastChecked": "2026-04-30T18:32:58.583Z",
+    "lastChecked": "2026-04-30T20:24:59.102Z",
     "isVerified": true
   },
   {
@@ -1575,8 +1605,9 @@
     "fax": "88-02-9130508, 9860564",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/6",
-    "lastChecked": "2026-04-30T18:32:59.588Z",
+    "lastChecked": "2026-04-30T20:24:59.439Z",
     "isVerified": true
   },
   {
@@ -1667,8 +1698,9 @@
     "fax": "88-02-7792226",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/83",
-    "lastChecked": "2026-04-30T18:33:00.939Z",
+    "lastChecked": "2026-04-30T20:24:59.775Z",
     "isVerified": true
   },
   {
@@ -1690,8 +1722,9 @@
     "fax": "9128009",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/117",
-    "lastChecked": "2026-04-30T18:33:01.273Z",
+    "lastChecked": "2026-04-30T20:25:00.117Z",
     "isVerified": true
   },
   {
@@ -1713,8 +1746,9 @@
     "fax": "880-28916521",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/20",
-    "lastChecked": "2026-04-30T18:33:01.600Z",
+    "lastChecked": "2026-04-30T20:25:00.454Z",
     "isVerified": true
   },
   {
@@ -1736,8 +1770,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/234",
-    "lastChecked": "2026-04-30T18:33:01.943Z",
+    "lastChecked": "2026-04-30T20:25:00.801Z",
     "isVerified": true
   },
   {
@@ -1759,8 +1794,9 @@
     "fax": "88-02-9862224",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/105",
-    "lastChecked": "2026-04-30T18:33:02.281Z",
+    "lastChecked": "2026-04-30T20:25:01.144Z",
     "isVerified": true
   },
   {
@@ -1836,8 +1872,9 @@
     "fax": "+88 0821-720307",
     "district": "Sylhet",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/104",
-    "lastChecked": "2026-04-30T18:33:03.292Z",
+    "lastChecked": "2026-04-30T20:25:01.481Z",
     "isVerified": true
   },
   {
@@ -1859,8 +1896,9 @@
     "fax": "880-31-2550224",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/54",
-    "lastChecked": "2026-04-30T18:33:03.624Z",
+    "lastChecked": "2026-04-30T20:25:01.807Z",
     "isVerified": true
   },
   {
@@ -1882,8 +1920,9 @@
     "fax": "(0821)725644",
     "district": "Sylhet",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/115",
-    "lastChecked": "2026-04-30T18:33:03.953Z",
+    "lastChecked": "2026-04-30T20:25:02.145Z",
     "isVerified": true
   },
   {
@@ -2066,8 +2105,9 @@
     "fax": "+880-2-8055647",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/86",
-    "lastChecked": "2026-04-30T18:33:06.642Z",
+    "lastChecked": "2026-04-30T20:25:02.488Z",
     "isVerified": true
   },
   {
@@ -2112,8 +2152,9 @@
     "fax": "+88-031-2851340,",
     "district": "Chittagong",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/99",
-    "lastChecked": "2026-04-30T18:33:07.309Z",
+    "lastChecked": "2026-04-30T20:25:02.835Z",
     "isVerified": true
   },
   {
@@ -2158,8 +2199,9 @@
     "fax": null,
     "district": "Rangpur",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/163",
-    "lastChecked": "2026-04-30T18:33:07.987Z",
+    "lastChecked": "2026-04-30T20:25:03.174Z",
     "isVerified": true
   },
   {
@@ -2227,8 +2269,9 @@
     "fax": "+8802-48315089",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/116",
-    "lastChecked": "2026-04-30T18:33:08.994Z",
+    "lastChecked": "2026-04-30T20:25:03.511Z",
     "isVerified": true
   },
   {
@@ -2250,8 +2293,9 @@
     "fax": "+(880-2)-9675981",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/76",
-    "lastChecked": "2026-04-30T18:33:09.333Z",
+    "lastChecked": "2026-04-30T20:25:03.850Z",
     "isVerified": true
   },
   {
@@ -2319,9 +2363,6 @@
     "fax": "9118170, 8156911",
     "district": "Dhaka",
     "notes": null,
-    "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/119",
-    "lastChecked": "2026-04-30T18:33:10.357Z",
-    "isVerified": true,
     "rankings": [
       {
         "source": "Webometrics",
@@ -2329,7 +2370,10 @@
         "year": "2024",
         "link": "https://www.webometrics.info/en/Asia/Bangladesh"
       }
-    ]
+    ],
+    "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/119",
+    "lastChecked": "2026-04-30T20:25:04.189Z",
+    "isVerified": true
   },
   {
     "id": "university-of-south-asia",
@@ -2350,8 +2394,9 @@
     "fax": "8313308",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/124",
-    "lastChecked": "2026-04-30T18:33:10.694Z",
+    "lastChecked": "2026-04-30T20:25:04.527Z",
     "isVerified": true
   },
   {
@@ -2373,8 +2418,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/127",
-    "lastChecked": "2026-04-30T18:33:11.029Z",
+    "lastChecked": "2026-04-30T20:25:04.866Z",
     "isVerified": true
   },
   {
@@ -2396,8 +2442,9 @@
     "fax": "88-02-48036355",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/41",
-    "lastChecked": "2026-04-30T18:33:11.378Z",
+    "lastChecked": "2026-04-30T20:25:05.204Z",
     "isVerified": true
   },
   {
@@ -2419,8 +2466,9 @@
     "fax": "880-2-8859142,",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/84",
-    "lastChecked": "2026-04-30T18:33:12.013Z",
+    "lastChecked": "2026-04-30T20:25:05.542Z",
     "isVerified": true
   },
   {
@@ -2442,8 +2490,9 @@
     "fax": "8899753",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/121",
-    "lastChecked": "2026-04-30T18:33:12.351Z",
+    "lastChecked": "2026-04-30T20:25:05.876Z",
     "isVerified": true
   },
   {
@@ -2465,8 +2514,9 @@
     "fax": "880-2-9820868,",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/87",
-    "lastChecked": "2026-04-30T18:33:12.687Z",
+    "lastChecked": "2026-04-30T20:25:06.220Z",
     "isVerified": true
   },
   {
@@ -2488,8 +2538,9 @@
     "fax": "+880-2-9223314603",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/92",
-    "lastChecked": "2026-04-30T18:33:13.026Z",
+    "lastChecked": "2026-04-30T20:25:06.556Z",
     "isVerified": true
   },
   {
@@ -2534,8 +2585,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/21",
-    "lastChecked": "2026-04-30T18:33:13.691Z",
+    "lastChecked": "2026-04-30T20:25:06.900Z",
     "isVerified": true
   },
   {
@@ -2557,8 +2609,9 @@
     "fax": ".",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/39",
-    "lastChecked": "2026-04-30T18:33:14.033Z",
+    "lastChecked": "2026-04-30T20:25:07.242Z",
     "isVerified": true
   },
   {
@@ -2580,8 +2633,9 @@
     "fax": "880-2-8114831",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/11",
-    "lastChecked": "2026-04-30T18:33:14.373Z",
+    "lastChecked": "2026-04-30T20:25:07.577Z",
     "isVerified": true
   },
   {
@@ -2603,8 +2657,9 @@
     "fax": ".",
     "district": "Chittagong",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/74",
-    "lastChecked": "2026-04-30T18:33:14.716Z",
+    "lastChecked": "2026-04-30T20:25:07.913Z",
     "isVerified": true
   },
   {
@@ -2626,8 +2681,9 @@
     "fax": ".",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/77",
-    "lastChecked": "2026-04-30T18:33:15.055Z",
+    "lastChecked": "2026-04-30T20:25:08.254Z",
     "isVerified": true
   },
   {
@@ -2718,8 +2774,9 @@
     "fax": "0821-710223",
     "district": "Sylhet",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/108",
-    "lastChecked": "2026-04-30T18:33:16.391Z",
+    "lastChecked": "2026-04-30T20:25:08.590Z",
     "isVerified": true
   },
   {
@@ -2741,8 +2798,9 @@
     "fax": "076162199",
     "district": "Chuadanga",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/81",
-    "lastChecked": "2026-04-30T18:33:16.725Z",
+    "lastChecked": "2026-04-30T20:25:08.924Z",
     "isVerified": true
   },
   {
@@ -2764,8 +2822,9 @@
     "fax": null,
     "district": "Kishoreganj",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/102",
-    "lastChecked": "2026-04-30T18:33:17.059Z",
+    "lastChecked": "2026-04-30T20:25:09.252Z",
     "isVerified": true
   },
   {
@@ -2787,8 +2846,9 @@
     "fax": ".",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/132",
-    "lastChecked": "2026-04-30T18:33:17.400Z",
+    "lastChecked": "2026-04-30T20:25:09.588Z",
     "isVerified": true
   },
   {
@@ -2810,8 +2870,9 @@
     "fax": "0781-53531",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/78",
-    "lastChecked": "2026-04-30T18:33:17.728Z",
+    "lastChecked": "2026-04-30T20:25:09.925Z",
     "isVerified": true
   },
   {
@@ -2833,8 +2894,9 @@
     "fax": "041-722744",
     "district": "Khulna",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/109",
-    "lastChecked": "2026-04-30T18:33:18.064Z",
+    "lastChecked": "2026-04-30T20:25:10.269Z",
     "isVerified": true
   },
   {
@@ -2856,8 +2918,9 @@
     "fax": "8802588834441",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/103",
-    "lastChecked": "2026-04-30T18:33:18.397Z",
+    "lastChecked": "2026-04-30T20:25:10.605Z",
     "isVerified": true
   },
   {
@@ -2879,8 +2942,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/97",
-    "lastChecked": "2026-04-30T18:33:18.729Z",
+    "lastChecked": "2026-04-30T20:25:10.951Z",
     "isVerified": true
   },
   {
@@ -2902,8 +2966,9 @@
     "fax": "+88 0331-62194",
     "district": "Feni",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/80",
-    "lastChecked": "2026-04-30T18:33:19.069Z",
+    "lastChecked": "2026-04-30T20:25:11.289Z",
     "isVerified": true
   },
   {
@@ -2925,8 +2990,9 @@
     "fax": null,
     "district": "Comilla",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/65",
-    "lastChecked": "2026-04-30T18:33:19.411Z",
+    "lastChecked": "2026-04-30T20:25:11.638Z",
     "isVerified": true
   },
   {
@@ -2948,8 +3014,9 @@
     "fax": "880-31-2869966",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/112",
-    "lastChecked": "2026-04-30T18:33:19.748Z",
+    "lastChecked": "2026-04-30T20:25:11.989Z",
     "isVerified": true
   },
   {
@@ -2971,8 +3038,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/48",
-    "lastChecked": "2026-04-30T18:33:20.088Z",
+    "lastChecked": "2026-04-30T20:25:12.334Z",
     "isVerified": true
   },
   {
@@ -2994,8 +3062,9 @@
     "fax": "031-610414",
     "district": "Chittagong",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/68",
-    "lastChecked": "2026-04-30T18:33:20.421Z",
+    "lastChecked": "2026-04-30T20:25:12.678Z",
     "isVerified": true
   },
   {
@@ -3040,8 +3109,9 @@
     "fax": null,
     "district": "Faridpur",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/136",
-    "lastChecked": "2026-04-30T18:33:21.092Z",
+    "lastChecked": "2026-04-30T20:25:13.019Z",
     "isVerified": true
   },
   {
@@ -3063,8 +3133,9 @@
     "fax": null,
     "district": "Rajshahi",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/107",
-    "lastChecked": "2026-04-30T18:33:21.426Z",
+    "lastChecked": "2026-04-30T20:25:13.361Z",
     "isVerified": true
   },
   {
@@ -3086,8 +3157,9 @@
     "fax": "+88029891845",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/79",
-    "lastChecked": "2026-04-30T18:33:21.761Z",
+    "lastChecked": "2026-04-30T20:25:13.693Z",
     "isVerified": true
   },
   {
@@ -3109,8 +3181,9 @@
     "fax": "07716496",
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/89",
-    "lastChecked": "2026-04-30T18:33:22.096Z",
+    "lastChecked": "2026-04-30T20:25:14.037Z",
     "isVerified": true
   },
   {
@@ -3132,8 +3205,9 @@
     "fax": null,
     "district": "Jamalpur",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/96",
-    "lastChecked": "2026-04-30T18:33:22.433Z",
+    "lastChecked": "2026-04-30T20:25:14.376Z",
     "isVerified": true
   },
   {
@@ -3155,8 +3229,9 @@
     "fax": "+88 0341-52511",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/70",
-    "lastChecked": "2026-04-30T18:33:22.766Z",
+    "lastChecked": "2026-04-30T20:25:14.716Z",
     "isVerified": true
   },
   {
@@ -3178,8 +3253,9 @@
     "fax": "027365024",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/91",
-    "lastChecked": "2026-04-30T18:33:23.098Z",
+    "lastChecked": "2026-04-30T20:25:15.059Z",
     "isVerified": true
   },
   {
@@ -3201,8 +3277,9 @@
     "fax": null,
     "district": "Gazipur",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/82",
-    "lastChecked": "2026-04-30T18:33:23.438Z",
+    "lastChecked": "2026-04-30T20:25:15.401Z",
     "isVerified": true
   },
   {
@@ -3224,8 +3301,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/137",
-    "lastChecked": "2026-04-30T18:33:23.776Z",
+    "lastChecked": "2026-04-30T20:25:15.739Z",
     "isVerified": true
   },
   {
@@ -3247,8 +3325,9 @@
     "fax": null,
     "district": "Comilla",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/66",
-    "lastChecked": "2026-04-30T18:33:24.116Z",
+    "lastChecked": "2026-04-30T20:25:16.078Z",
     "isVerified": true
   },
   {
@@ -3270,8 +3349,9 @@
     "fax": null,
     "district": "Nilphamari",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/134",
-    "lastChecked": "2026-04-30T18:33:24.450Z",
+    "lastChecked": "2026-04-30T20:25:16.419Z",
     "isVerified": true
   },
   {
@@ -3293,8 +3373,9 @@
     "fax": null,
     "district": "Natore",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/133",
-    "lastChecked": "2026-04-30T18:33:24.788Z",
+    "lastChecked": "2026-04-30T20:25:16.758Z",
     "isVerified": true
   },
   {
@@ -3316,8 +3397,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/135",
-    "lastChecked": "2026-04-30T18:33:25.120Z",
+    "lastChecked": "2026-04-30T20:25:17.099Z",
     "isVerified": true
   },
   {
@@ -3339,8 +3421,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/164",
-    "lastChecked": "2026-04-30T18:33:25.457Z",
+    "lastChecked": "2026-04-30T20:25:17.438Z",
     "isVerified": true
   },
   {
@@ -3385,8 +3468,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/166",
-    "lastChecked": "2026-04-30T18:33:26.126Z",
+    "lastChecked": "2026-04-30T20:25:17.776Z",
     "isVerified": true
   },
   {
@@ -3408,8 +3492,9 @@
     "fax": "81355",
     "district": "Khulna",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/167",
-    "lastChecked": "2026-04-30T18:33:26.460Z",
+    "lastChecked": "2026-04-30T20:25:18.114Z",
     "isVerified": true
   },
   {
@@ -3454,8 +3539,9 @@
     "fax": "031-2555724",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/169",
-    "lastChecked": "2026-04-30T18:33:27.132Z",
+    "lastChecked": "2026-04-30T20:25:18.458Z",
     "isVerified": true
   },
   {
@@ -3477,8 +3563,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/170",
-    "lastChecked": "2026-04-30T18:33:27.466Z",
+    "lastChecked": "2026-04-30T20:25:18.794Z",
     "isVerified": true
   },
   {
@@ -3500,8 +3587,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/176",
-    "lastChecked": "2026-04-30T18:33:27.804Z",
+    "lastChecked": "2026-04-30T20:25:19.140Z",
     "isVerified": true
   },
   {
@@ -3523,8 +3611,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/172",
-    "lastChecked": "2026-04-30T18:33:28.131Z",
+    "lastChecked": "2026-04-30T20:25:19.492Z",
     "isVerified": true
   },
   {
@@ -3546,8 +3635,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/177",
-    "lastChecked": "2026-04-30T18:33:28.468Z",
+    "lastChecked": "2026-04-30T20:25:19.833Z",
     "isVerified": true
   },
   {
@@ -3569,8 +3659,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/171",
-    "lastChecked": "2026-04-30T18:33:28.806Z",
+    "lastChecked": "2026-04-30T20:25:20.175Z",
     "isVerified": true
   },
   {
@@ -3592,8 +3683,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/180",
-    "lastChecked": "2026-04-30T18:33:29.143Z",
+    "lastChecked": "2026-04-30T20:25:20.529Z",
     "isVerified": true
   },
   {
@@ -3615,8 +3707,9 @@
     "fax": null,
     "district": "Rajshahi",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/187",
-    "lastChecked": "2026-04-30T18:33:29.479Z",
+    "lastChecked": "2026-04-30T20:25:20.868Z",
     "isVerified": true
   },
   {
@@ -3638,8 +3731,9 @@
     "fax": null,
     "district": "Khulna",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/184",
-    "lastChecked": "2026-04-30T18:33:29.816Z",
+    "lastChecked": "2026-04-30T20:25:21.207Z",
     "isVerified": true
   },
   {
@@ -3661,8 +3755,9 @@
     "fax": null,
     "district": "Bandarban",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/181",
-    "lastChecked": "2026-04-30T18:33:30.155Z",
+    "lastChecked": "2026-04-30T20:25:21.836Z",
     "isVerified": true
   },
   {
@@ -3684,8 +3779,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/190",
-    "lastChecked": "2026-04-30T18:33:30.489Z",
+    "lastChecked": "2026-04-30T20:25:22.167Z",
     "isVerified": true
   },
   {
@@ -3707,8 +3803,9 @@
     "fax": null,
     "district": "Barishal",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/193",
-    "lastChecked": "2026-04-30T18:33:30.827Z",
+    "lastChecked": "2026-04-30T20:25:22.504Z",
     "isVerified": true
   },
   {
@@ -3730,8 +3827,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/196",
-    "lastChecked": "2026-04-30T18:33:31.163Z",
+    "lastChecked": "2026-04-30T20:25:22.840Z",
     "isVerified": true
   },
   {
@@ -3753,8 +3851,9 @@
     "fax": null,
     "district": "Brahmanbaria",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/211",
-    "lastChecked": "2026-04-30T18:33:31.498Z",
+    "lastChecked": "2026-04-30T20:25:23.179Z",
     "isVerified": true
   },
   {
@@ -3776,8 +3875,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/212",
-    "lastChecked": "2026-04-30T18:33:31.843Z",
+    "lastChecked": "2026-04-30T20:25:23.511Z",
     "isVerified": true
   },
   {
@@ -3799,8 +3899,9 @@
     "fax": ".",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/215",
-    "lastChecked": "2026-04-30T18:33:32.188Z",
+    "lastChecked": "2026-04-30T20:25:23.857Z",
     "isVerified": true
   },
   {
@@ -3868,8 +3969,9 @@
     "fax": ".",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/224",
-    "lastChecked": "2026-04-30T18:33:33.184Z",
+    "lastChecked": "2026-04-30T20:25:24.191Z",
     "isVerified": true
   },
   {
@@ -3914,8 +4016,9 @@
     "fax": ".",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/226",
-    "lastChecked": "2026-04-30T18:33:33.836Z",
+    "lastChecked": "2026-04-30T20:25:24.523Z",
     "isVerified": true
   },
   {
@@ -3983,8 +4086,9 @@
     "fax": ".",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/233",
-    "lastChecked": "2026-04-30T18:33:34.837Z",
+    "lastChecked": "2026-04-30T20:25:24.857Z",
     "isVerified": true
   },
   {
@@ -4006,8 +4110,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/241",
-    "lastChecked": "2026-04-30T18:33:35.173Z",
+    "lastChecked": "2026-04-30T20:25:25.193Z",
     "isVerified": true
   },
   {
@@ -4029,8 +4134,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/93",
-    "lastChecked": "2026-04-30T18:33:35.509Z",
+    "lastChecked": "2026-04-30T20:25:25.531Z",
     "isVerified": true
   },
   {
@@ -4052,8 +4158,9 @@
     "fax": null,
     "district": "Dhaka",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/179",
-    "lastChecked": "2026-04-30T18:33:35.844Z",
+    "lastChecked": "2026-04-30T20:25:25.866Z",
     "isVerified": true
   },
   {
@@ -4075,8 +4182,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/88",
-    "lastChecked": "2026-04-30T18:33:36.189Z",
+    "lastChecked": "2026-04-30T20:25:26.201Z",
     "isVerified": true
   },
   {
@@ -4098,8 +4206,9 @@
     "fax": ".",
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/232",
-    "lastChecked": "2026-04-30T18:33:36.524Z",
+    "lastChecked": "2026-04-30T20:25:26.534Z",
     "isVerified": true
   },
   {
@@ -4144,8 +4253,9 @@
     "fax": null,
     "district": "Chittagong",
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/38",
-    "lastChecked": "2026-04-30T18:33:37.520Z",
+    "lastChecked": "2026-04-30T20:25:27.205Z",
     "isVerified": true
   },
   {
@@ -4167,8 +4277,9 @@
     "fax": null,
     "district": null,
     "notes": null,
+    "rankings": [],
     "sourceUrl": "http://www.ugc-universities.gov.bd/university-detail/26",
-    "lastChecked": "2026-04-30T18:33:37.854Z",
+    "lastChecked": "2026-04-30T20:25:27.532Z",
     "isVerified": true
   }
 ]

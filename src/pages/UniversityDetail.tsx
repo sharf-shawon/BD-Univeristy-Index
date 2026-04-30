@@ -156,22 +156,22 @@ export default function UniversityDetail() {
               </section>
 
               {university.rankings && university.rankings.length > 0 ? (
-                <section>
+                <section className="animate-in fade-in slide-in-from-bottom-4 duration-700">
                   <h3 className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-6 flex items-center gap-2">
-                    <div className="h-1.5 w-1.5 bg-amber-500 rounded-full"></div>
+                    <Trophy className="h-3.5 w-3.5 text-amber-500" />
                     Global Standing & Rankings
                   </h3>
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                     {university.rankings.map((r, i) => (
-                      <div key={i} className="bg-amber-50/50 border border-amber-100 rounded-2xl p-6 flex flex-col gap-4">
+                      <div key={i} className="bg-gradient-to-br from-amber-50/80 to-white border border-amber-100 rounded-2xl p-6 flex flex-col gap-4 shadow-sm hover:shadow-md transition-shadow">
                         <div className="flex items-center justify-between">
                           <div className="flex items-center gap-2">
-                            <Trophy className="h-5 w-5 text-amber-600" />
-                            <span className="font-black text-amber-900 tracking-tight">{r.source} World Rank</span>
+                            <Award className="h-5 w-5 text-amber-600" />
+                            <span className="font-black text-amber-900 tracking-tight uppercase text-xs">{r.source} World Rank</span>
                           </div>
-                          <span className="text-[10px] font-bold bg-amber-100 text-amber-700 px-2 py-0.5 rounded uppercase">{r.year}</span>
+                          <span className="text-[10px] font-bold bg-amber-100/50 text-amber-700 px-2 py-0.5 rounded-full uppercase tabular-nums">{r.year}</span>
                         </div>
-                        <div className="text-4xl font-black text-amber-900">
+                        <div className="text-5xl font-black text-amber-900 tracking-tighter">
                           #{r.rank}
                         </div>
                         {r.link && (
@@ -179,7 +179,7 @@ export default function UniversityDetail() {
                             href={r.link} 
                             target="_blank" 
                             rel="noopener noreferrer" 
-                            className="text-xs font-bold text-amber-700 flex items-center gap-1 hover:underline mt-2"
+                            className="text-[10px] font-bold text-amber-700 flex items-center gap-1.5 hover:text-amber-900 transition-colors mt-2 uppercase tracking-wide"
                           >
                             Explore Score Details <ExternalLink className="h-3 w-3" />
                           </a>
@@ -187,8 +187,8 @@ export default function UniversityDetail() {
                       </div>
                     ))}
                   </div>
-                  <p className="text-[10px] text-slate-400 mt-4 leading-relaxed italic">
-                    Ranking data is provided for academic reference and is sourced from world-renowned ranking agencies.
+                  <p className="text-[10px] text-slate-400 mt-5 leading-relaxed bg-slate-50/50 p-3 rounded-lg border border-slate-100 border-dashed">
+                    This data is sourced directly from official records of world-renowned ranking agencies (QS World University Rankings, Times Higher Education, Webometrics).
                   </p>
                 </section>
               ) : (

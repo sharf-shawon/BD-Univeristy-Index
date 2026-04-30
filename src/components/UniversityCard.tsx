@@ -28,8 +28,8 @@ export default function UniversityCard({ university }: UniversityCardProps) {
         <div className="flex-1 min-w-0">
           <div className="flex flex-wrap gap-2 mb-1">
             {topRanking && (
-              <span className="inline-flex items-center gap-1.5 bg-amber-50 text-amber-700 text-[10px] font-extrabold uppercase tracking-widest px-2 py-1 rounded-lg border border-amber-200/50 shadow-sm shadow-amber-900/5">
-                <Trophy className="h-3 w-3" /> Global #{topRanking.rank}
+              <span className="inline-flex items-center gap-1.5 bg-gradient-to-r from-amber-50 to-orange-50 text-amber-700 text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded-lg border border-amber-200/50 shadow-sm shadow-amber-900/5 transition-all group-hover:scale-105 group-hover:shadow-amber-200/20">
+                <Trophy className="h-3 w-3 text-amber-500" /> Global <span className="text-amber-900 ml-0.5">#{topRanking.rank}</span>
               </span>
             )}
           </div>

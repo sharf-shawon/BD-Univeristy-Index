@@ -7,6 +7,7 @@ import crypto from 'crypto';
 
 const DATA_DIR = path.join(process.cwd(), 'data');
 const DATA_FILE = path.join(DATA_DIR, 'universities.json');
+const RANKINGS_FILE = path.join(process.cwd(), 'src', 'config', 'rankings.json');
 const PUBLIC_DIR = path.join(process.cwd(), 'public');
 const SITEMAP_FILE = path.join(PUBLIC_DIR, 'sitemap.xml');
 
@@ -39,10 +40,25 @@ function getFingerprint(uni: Partial<University>): string {
 
 async function loadExistingUniversities(): Promise<Record<string, University>> {
   if (!fs.existsSync(DATA_FILE)) return {};
-  const data = JSON.parse(fs.readFileSync(DATA_FILE, 'utf-8')) as University[];
-  const map: Record<string, University> = {};
-  data.forEach(u => map[u.id] = u);
-  return map;
+  try {
+    const data = JSON.parse(fs.readFileSync(DATA_FILE, 'utf-8')) as University[];
+    const map: Record<string, University> = {};
+    data.forEach(u => map[u.id] = u);
+    return map;
+  } catch (e) {
+    console.error('Error loading existing data:', e);
+    return {};
+  }
+}
+
+async function loadPermanentRankings(): Promise<Record<string, any[]>> {
+  if (!fs.existsSync(RANKINGS_FILE)) return {};
+  try {
+    return JSON.parse(fs.readFileSync(RANKINGS_FILE, 'utf-8'));
+  } catch (e) {
+    console.error('Error loading permanent rankings:', e);
+    return {};
+  }
 }
 
 async function saveUniversities(universities: University[]) {
@@ -75,6 +91,7 @@ async function fetchWithRetry(url: string, retries = 3): Promise<string | null> 
 async function scrape() {
   console.log('Starting sync process...');
   const existingMap = await loadExistingUniversities();
+  const permanentRankings = await loadPermanentRankings();
   const universities: University[] = [];
   const processedSlugs = new Set<string>();
 
@@ -186,7 +203,7 @@ async function scrape() {
             fax: details.fax || existing?.fax || null,
             district: details.district || existing?.district || null,
             notes: existing?.notes || null,
-            rankings: existing?.rankings || [],
+            rankings: permanentRankings[slug] || existing?.rankings || [],
             sourceUrl: detailUrl || source.url,
             lastChecked: new Date().toISOString(),
             isVerified: true,
