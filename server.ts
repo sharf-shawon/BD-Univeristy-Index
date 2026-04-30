@@ -218,6 +218,15 @@ async function startServer() {
   app.listen(PORT, "0.0.0.0", () => {
     console.log(`[${new Date().toISOString()}] Server running in ${process.env.NODE_ENV || 'development'} mode`);
     console.log(`[${new Date().toISOString()}] Listening on http://0.0.0.0:${PORT}`);
+    
+    // Diagnostic check for data
+    const dataExists = fs.existsSync(DATA_PATH);
+    if (!dataExists) {
+      console.error(`[${new Date().toISOString()}] CRITICAL: Universities data not found at ${DATA_PATH}`);
+    } else {
+      const data = getUniversities();
+      console.log(`[${new Date().toISOString()}] Registry loaded: ${data.length} universities available.`);
+    }
   });
 
 }

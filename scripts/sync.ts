@@ -216,8 +216,8 @@ async function scrape() {
   }
 
   if (universities.length === 0) {
-    console.warn('No universities found during scrape. Aborting save to prevent data loss.');
-    return;
+    console.error('No universities found during scrape. Aborting save to prevent data loss.');
+    process.exit(1);
   }
 
   console.log(`Sync complete. Found ${universities.length} institutions. Saving...`);
