@@ -5,7 +5,7 @@ import { UniversityCategory, University } from '../src/types';
 import path from 'path';
 import crypto from 'crypto';
 
-const DATA_DIR = path.join(process.cwd(), 'data');
+const DATA_DIR = path.join(process.cwd(), 'registry');
 const DATA_FILE = path.join(DATA_DIR, 'universities.json');
 const RANKINGS_FILE = path.join(process.cwd(), 'src', 'config', 'rankings.json');
 const PUBLIC_DIR = path.join(process.cwd(), 'public');

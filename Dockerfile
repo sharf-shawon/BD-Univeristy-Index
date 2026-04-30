@@ -25,7 +25,7 @@ RUN npm install --omit=dev && npm install -g tsx
 COPY --from=builder /app/dist ./dist
 COPY --from=builder /app/server.ts ./
 COPY --from=builder /app/scripts ./scripts
-COPY --from=builder /app/data ./data
+COPY --from=builder /app/registry ./registry
 COPY --from=builder /app/src/types.ts ./src/types.ts
 
 # Set environment to production

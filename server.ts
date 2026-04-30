@@ -4,7 +4,7 @@ import path from "path";
 import fs from "fs";
 import { UniversityCategory, University } from "./src/types";
 
-const DATA_PATH = path.join(process.cwd(), "data", "universities.json");
+const DATA_PATH = path.join(process.cwd(), "registry", "universities.json");
 
 function getUniversities(): University[] {
   if (!fs.existsSync(DATA_PATH)) return [];

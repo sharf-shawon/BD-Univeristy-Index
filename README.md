@@ -55,7 +55,7 @@ The data is synchronized daily via GitHub Actions. The sync script:
 1. Scrapes official data from the University Grants Commission of Bangladesh.
 2. Normalizes institutional metadata (Vice Chancellor, Year of Establishment, District).
 3. Cross-references world university rankings.
-4. Updates the local `data/universities.json` repository.
+4. Updates the local `registry/universities.json` repository.
 
 ## 📈 SEO & Performance
 

@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "tsx server.ts",
     "sync": "tsx scripts/sync.ts",
-    "build": "vite build",
+    "build": "npm run sync && vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit"
