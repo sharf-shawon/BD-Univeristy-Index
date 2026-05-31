@@ -7,6 +7,7 @@
     "dev": "tsx server.ts",
     "sync": "tsx scripts/sync.ts",
     "build": "npm run sync && vite build",
+    "build:pages": "vite build && cp dist/index.html dist/404.html",
     "preview": "vite preview",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit"
