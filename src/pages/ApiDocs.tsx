@@ -64,8 +64,8 @@ export default function ApiDocs() {
             <h2 className="text-4xl font-extrabold tracking-tight">API Documentation</h2>
           </div>
           <p className="text-xl text-slate-500 max-w-3xl leading-relaxed">
-            Build specialized applications, search engines, or academic tools using our high-performance REST API. 
-            Our endpoints serve cryptographically verified data refreshed daily from official UGC records.
+            In local development, the project exposes REST-style endpoints from the Express server. 
+            The GitHub Pages deployment uses the bundled university registry directly, so the static site remains fast and portable.
           </p>
         </div>
 
@@ -149,7 +149,7 @@ export default function ApiDocs() {
               
               <div className="mt-10 pt-8 border-t border-slate-100">
                 <p className="text-[10px] text-slate-400 font-medium italic">
-                  Looking for a custom data export? Check our sitemap for full institutional coverage.
+                  Looking for a custom data export? Check the sitemap for full institutional coverage.
                 </p>
               </div>
             </div>

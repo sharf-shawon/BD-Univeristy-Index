@@ -1,7 +1,6 @@
 import { useState, useEffect, useMemo } from "react";
-import { useParams, Link, useNavigate, useSearchParams } from "react-router-dom";
-import axios from "axios";
-import { University, UniversityCategory, UniversityApiResponse } from "../types";
+import { Link, useSearchParams } from "react-router-dom";
+import { University, UniversityCategory } from "../types";
 import UniversityCard from "../components/UniversityCard";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -17,6 +16,7 @@ import {
   MapPin
 } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
+import { getUniversityDirectory } from "../lib/universityData";
 
 type SortOption = 'name-asc' | 'name-desc' | 'year-new' | 'year-old' | 'rank-asc' | 'rank-desc';
 
@@ -40,17 +40,12 @@ export default function UniversityList() {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const response = await axios.get<UniversityApiResponse>("/api/universities", {
-          params: {
-            q: searchQuery,
-            category: selectedCategory,
-          },
-        });
-        setUniversities(response.data.data);
-        setCategories(response.data.categories);
+        const response = getUniversityDirectory();
+        setUniversities(response.data);
+        setCategories(response.categories);
         
         // Extract unique districts
-        const allDistricts = response.data.data
+        const allDistricts = response.data
           .map(u => u.district)
           .filter((d): d is string => !!d);
         setDistricts(Array.from(new Set(allDistricts)).sort());
@@ -66,10 +61,24 @@ export default function UniversityList() {
 
     const timer = setTimeout(fetchData, 300);
     return () => clearTimeout(timer);
-  }, [searchQuery, selectedCategory]);
+  }, []);
 
   const filteredAndSortedUniversities = useMemo(() => {
     let result = [...universities];
+
+    const normalizedQuery = searchQuery.trim().toLowerCase();
+
+    if (normalizedQuery) {
+      result = result.filter((university) =>
+        university.name.toLowerCase().includes(normalizedQuery) ||
+        university.slug.toLowerCase().includes(normalizedQuery) ||
+        university.district?.toLowerCase().includes(normalizedQuery),
+      );
+    }
+
+    if (selectedCategory) {
+      result = result.filter((university) => university.category === selectedCategory);
+    }
 
     // Additional client-side filtering
     if (selectedDistrict) {

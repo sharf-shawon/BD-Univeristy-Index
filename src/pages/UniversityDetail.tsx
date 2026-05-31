@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
-import axios from "axios";
 import { University } from "../types";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -24,6 +23,7 @@ import {
 } from "lucide-react";
 import { motion } from "motion/react";
 import EmailValidator from "../components/EmailValidator";
+import { getUniversityBySlug } from "../lib/universityData";
 
 export default function UniversityDetail() {
   const { slug } = useParams();
@@ -44,9 +44,16 @@ export default function UniversityDetail() {
     const fetchUniversity = async () => {
       try {
         setLoading(true);
-        const response = await axios.get<University>(`/api/universities/${slug}`);
-        setUniversity(response.data);
-        document.title = `${response.data.name} | BD University Index Official Profile`;
+        const record = slug ? getUniversityBySlug(slug) : undefined;
+
+        if (!record) {
+          setError("University not found.");
+          document.title = "University Not Found | BD University Index";
+          return;
+        }
+
+        setUniversity(record);
+        document.title = `${record.name} | BD University Index Official Profile`;
       } catch (err) {
         console.error(err);
         setError("University not found or server error.");

@@ -5,7 +5,6 @@
 
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import axios from "axios";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { 
@@ -24,8 +23,9 @@ import { motion } from "motion/react";
 import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
-import { University, UniversityApiResponse } from "../types";
+import { University } from "../types";
 import { DISTRICT_COORDS } from "../constants";
+import { getUniversityDirectory, validateEmailAgainstDirectory } from "../lib/universityData";
 
 // Fix for Leaflet default icon issues in React
 // @ts-ignore
@@ -57,8 +57,8 @@ export default function Home() {
     document.title = "BD University Index | Official UGC Approved University Directory & Verification";
     const fetchStats = async () => {
       try {
-        const response = await axios.get<UniversityApiResponse>("/api/universities");
-        const data = response.data.data;
+        const response = getUniversityDirectory();
+        const data = response.data;
         setUniversities(data);
         setStats({
           total: data.length,
@@ -75,17 +75,7 @@ export default function Home() {
 
   const handleValidate = async () => {
     if (!validationEmail) return;
-    try {
-      const response = await axios.get(`/api/validate/email?email=${validationEmail}`);
-      setValidationResult({
-        isValid: response.data.isValid,
-        message: response.data.match 
-          ? `Verified institution: ${response.data.match.name}` 
-          : "No matching institutional record found."
-      });
-    } catch (err) {
-      setValidationResult({ isValid: false, message: "Validation service error." });
-    }
+    setValidationResult(validateEmailAgainstDirectory(validationEmail, universities));
   };
 
   return (
