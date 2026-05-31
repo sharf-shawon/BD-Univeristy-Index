@@ -7,23 +7,32 @@ import { Link } from "react-router-dom";
 
 export default function Footer() {
   return (
-    <footer className="bg-white border-t border-slate-100 py-16 px-8">
-      <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-10">
-        <Link to="/" className="flex items-center gap-3 group">
-          <div className="w-8 h-8 bg-slate-900 rounded-lg flex items-center justify-center text-white font-bold text-lg group-hover:bg-blue-600 transition-colors">B</div>
+    <footer className="border-t border-slate-200 bg-white/90 px-8 py-12 backdrop-blur supports-[backdrop-filter]:bg-white/70">
+      <div className="mx-auto flex max-w-7xl flex-col gap-8 md:flex-row md:items-center md:justify-between">
+        <Link to="/" className="group flex items-center gap-3">
+          <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-slate-900 text-sm font-bold text-white shadow-lg shadow-slate-200 transition-transform group-hover:-translate-y-0.5">
+            B
+          </div>
           <div>
-            <h3 className="text-sm font-bold tracking-tight text-slate-900">BD University Index</h3>
-            <p className="text-[10px] text-slate-400 font-bold uppercase tracking-widest">© 2026 Data Accessibility Initiative</p>
+            <p className="text-sm font-semibold tracking-tight text-slate-900">BD University Index</p>
+            <p className="text-xs text-slate-500">Official UGC-approved university registry</p>
           </div>
         </Link>
-        <nav className="flex gap-10 text-[10px] font-bold text-slate-400 uppercase tracking-widest">
-          <Link to="/universities" className="hover:text-blue-600 transition-colors">Directory Index</Link>
-          <Link to="/api-docs" className="hover:text-blue-600 transition-colors">Developer Console</Link>
-          <Link to="/about" className="hover:text-blue-600 transition-colors">Legal & Compliance</Link>
-          <a href="https://ugc.gov.bd" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors">UGC Official</a>
+
+        <nav className="flex flex-wrap items-center gap-x-8 gap-y-3 text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+          <Link to="/universities" className="transition-colors hover:text-blue-600">Directory</Link>
+          <Link to="/api-docs" className="transition-colors hover:text-blue-600">API</Link>
+          <Link to="/about" className="transition-colors hover:text-blue-600">About</Link>
+          <a href="https://ugc.gov.bd" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-blue-600">UGC</a>
         </nav>
-        <div className="text-[10px] font-bold text-slate-400 uppercase tracking-widest flex items-center gap-2">
-          Data Integrity: <span className="text-green-500 flex items-center gap-1.5"><div className="w-1.5 h-1.5 bg-green-500 rounded-full animate-pulse"></div> Synchronized</span>
+
+        <div className="text-sm text-slate-500">
+          <span className="font-medium text-slate-900">Built by </span>
+          <a href="https://shawon.me" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-600 transition-colors hover:text-blue-700">
+            Sharfuddin Shawon
+          </a>
+          <span className="mx-2 text-slate-300">·</span>
+          <span className="text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-400">Always in sync</span>
         </div>
       </div>
     </footer>

@@ -33,8 +33,6 @@ jobs:
 
       - name: Run Sync Script
         run: npm run sync
-        env:
-          APP_URL: "https://sharfuddin-shawon.github.io/bd-university-index" # Example URL, update as needed
 
       - name: Build GitHub Pages Site
         run: npm run build:pages

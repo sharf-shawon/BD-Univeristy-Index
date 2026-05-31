@@ -8,6 +8,7 @@ import crypto from 'crypto';
 const DATA_DIR = path.join(process.cwd(), 'registry');
 const DATA_FILE = path.join(DATA_DIR, 'universities.json');
 const RANKINGS_FILE = path.join(process.cwd(), 'src', 'config', 'rankings.json');
+const CNAME_FILE = path.join(process.cwd(), 'CNAME');
 const PUBLIC_DIR = path.join(process.cwd(), 'public');
 const SITEMAP_FILE = path.join(PUBLIC_DIR, 'sitemap.xml');
 
@@ -36,6 +37,21 @@ function generateSlug(name: string): string {
 
 function getFingerprint(uni: Partial<University>): string {
   return crypto.createHash('md5').update(`${uni.name}-${uni.website}-${uni.category}`).digest('hex');
+}
+
+function getSiteUrl(): string {
+  if (fs.existsSync(CNAME_FILE)) {
+    const cname = fs.readFileSync(CNAME_FILE, 'utf-8').trim();
+    if (cname) {
+      return cname.startsWith('http://') || cname.startsWith('https://') ? cname : `https://${cname}`;
+    }
+  }
+
+  if (process.env.APP_URL) {
+    return process.env.APP_URL;
+  }
+
+  return 'https://ais-university-directory.example.com';
 }
 
 async function loadExistingUniversities(): Promise<Record<string, University>> {
@@ -224,16 +240,17 @@ async function scrape() {
   await saveUniversities(universities);
 
   // Sitemap generation
+  const siteUrl = getSiteUrl().replace(/\/$/, '');
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>${process.env.APP_URL || 'https://ais-university-directory.example.com'}/</loc>
+    <loc>${siteUrl}/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   ${universities.map(u => `
   <url>
-    <loc>${process.env.APP_URL || 'https://ais-university-directory.example.com'}/universities/${u.slug}</loc>
+    <loc>${siteUrl}/universities/${u.slug}</loc>
     <lastmod>${new Date().toISOString().split('T')[0]}</lastmod>
     <changefreq>weekly</changefreq>
   </url>`).join('')}
