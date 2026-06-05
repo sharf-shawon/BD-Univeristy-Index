@@ -1,6 +1,6 @@
-# BD University Index
+# Bangladeshi University Index
 
-[![Sync and Deploy](https://github.com/sharfuddin-shawon/bd-university-index/actions/workflows/sync.yml/badge.svg)](https://github.com/sharfuddin-shawon/bd-university-index/actions/workflows/sync.yml)
+[![Sync UGC Data](https://github.com/sharf-shawon/BD-Univeristy-Index/actions/workflows/sync.yml/badge.svg)](https://github.com/sharf-shawon/BD-Univeristy-Index/actions/workflows/sync.yml)
 
 A comprehensive data accessibility initiative focused on visualizing and streamlining official UGC (University Grants Commission) records of higher education institutions in Bangladesh. 
 
